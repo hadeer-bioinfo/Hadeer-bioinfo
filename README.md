@@ -18,9 +18,8 @@
 - 🧬 **Bio Tools**: DNA analysis · GC content · RNA transcription
 
 ---
+ 🔗 Connect with Me
 
-## 🔗 Connect with Me
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 (mailto:hadeertarek499@gmail.com)
